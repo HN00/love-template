@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.js": "/love-template/static/js/main.e1e1a473.js",
+    "main.js": "/love-template/static/js/main.337b95f9.js",
     "index.html": "/love-template/index.html",
-    "main.e1e1a473.js.map": "/love-template/static/js/main.e1e1a473.js.map"
+    "main.337b95f9.js.map": "/love-template/static/js/main.337b95f9.js.map"
   },
   "entrypoints": [
-    "static/js/main.e1e1a473.js"
+    "static/js/main.337b95f9.js"
   ]
 }
